@@ -1,0 +1,96 @@
+ 
+/* === FONS === */
+
+#header-nav {
+  background-color: #3c1414;
+}
+
+#newsletter-bereich {
+  background-color:  #3c1414;
+}
+
+#footer {
+  background-color:  #3c1414;
+}
+
+html {
+  background-color: #171717;
+}
+
+#über-uns-bereich {
+  background-color:  #171717;
+}
+
+#service-bereich {
+  background-color:  #171717;
+}
+
+.btn-typ-3 {
+  color: #f5fffa;
+}
+
+#absendenButton {
+  color: #000;
+}
+
+
+/* === Text === */
+
+ .intro-container > h1 {
+  color:#f5fffa;
+}
+
+.intro-container > p {
+  color:#f5fffa;
+}
+
+#über-uns-container h1 {
+  color:#f5fffa;
+}
+
+#über-uns-container p {
+  color:#f5fffa;
+}
+
+.service-box h1 {
+  color:#f5fffa;
+}
+
+.service-box p {
+  color:#f5fffa;
+}
+
+#impressum h1 {
+  color:#f5fffa;
+}
+
+#impressum h2 {
+  color:#f5fffa;
+}
+
+#impressum p {
+  color:#f5fffa;
+}
+
+#impressum ul {
+  color:#f5fffa;
+}
+
+#impressum a {
+  color: #f5fffa;
+}
+
+ /* === Thema === */
+
+ .theme {
+  background: #171717;
+  box-shadow: 0 0 10px rgba(255,255,255,0.1);
+}
+
+.change-theme[data-theme="dark"] {
+  display: none;
+}
+
+.change-theme[data-theme="light"] {
+  display: block;
+}
